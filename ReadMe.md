@@ -37,4 +37,4 @@ def setPos(x, y, z):
 	mc.player.setPos(x, y, z)
 
 def setTilePos(x, y, z):
-	mc.player.setPos(int(x), int(y), int(z))
+	mc.player.setPos(int(x), int(y), int(z)) 
